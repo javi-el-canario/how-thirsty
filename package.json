@@ -1,0 +1,12 @@
+{
+  "name": "how-thirsty",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static mini-games about the water and electricity cost of AI prompts.",
+  "scripts": {
+    "start": "python -m http.server 8080",
+    "test": "node tests/selftest.mjs",
+    "images": "node tools/make-sample-images.mjs"
+  }
+}

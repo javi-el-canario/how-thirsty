@@ -1,0 +1,427 @@
+{
+  "_help": "Details of the pictures. Anything missing uses 'defaults'. Real pictures: images/real/NNN.webp. AI pictures: images/ai/NNN.webp. NNN is the number of the file.",
+  "defaults": {
+    "real": {
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    "ai": {
+      "tool": "Gemini",
+      "tries": 1
+    }
+  },
+  "real": {},
+  "ai": {
+    "001": {
+      "subject": "a hiking trail through a pine forest with exposed roots and a few puddles, on an overcast day",
+      "prompt": "A casual smartphone photo of a hiking trail through a pine forest with exposed roots and a few puddles, on an overcast day. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "002": {
+      "subject": "a small mountain village on a hillside with tiled roofs and a church tower",
+      "prompt": "A landscape photograph at golden hour of a small mountain village on a hillside with tiled roofs and a church tower. Warm low sun, rich colours, careful composition, sharp from foreground to background. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P2",
+      "casual": false
+    },
+    "003": {
+      "subject": "a rocky beach with seaweed, a few boulders and flat grey water",
+      "prompt": "A photo from an old 2000s compact digital camera of a rocky beach with seaweed, a few boulders and flat grey water. Low resolution, slightly washed-out colours, soft detail, mild purple fringing, flat light, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C3",
+      "casual": true
+    },
+    "004": {
+      "subject": "a farmland field with a muddy tractor track and low hills in the distance",
+      "prompt": "A casual smartphone photo of a farmland field with a muddy tractor track and low hills in the distance. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "005": {
+      "subject": "a shallow stream running over stones in a wooded valley",
+      "prompt": "A long-exposure photograph on a tripod of a shallow stream running over stones in a wooded valley. Silky smooth water or moving clouds, sharp rocks and trees, soft blue-hour light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P3",
+      "casual": false
+    },
+    "006": {
+      "subject": "a grassy cliff top with a wire fence and the sea behind it",
+      "prompt": "A casual smartphone photo of a grassy cliff top with a wire fence and the sea behind it. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "007": {
+      "subject": "a dry riverbed full of pebbles with a few dusty bushes along the edge",
+      "prompt": "A photo from an old 2000s compact digital camera of a dry riverbed full of pebbles with a few dusty bushes along the edge. Low resolution, slightly washed-out colours, soft detail, mild purple fringing, flat light, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C3",
+      "casual": true
+    },
+    "008": {
+      "subject": "a lake shore with reeds and an old wooden jetty",
+      "prompt": "A moody fine-art photograph of a lake shore with reeds and an old wooden jetty. Soft fog and diffuse light, muted tones, minimal composition, calm atmosphere. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P11",
+      "casual": false
+    },
+    "009": {
+      "subject": "a snowy field crossed by footprints, with a single leafless tree",
+      "prompt": "A black-and-white 35mm film photograph of a snowy field crossed by footprints, with a single leafless tree. Visible grain, strong contrast, documentary style, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P6",
+      "casual": false
+    },
+    "010": {
+      "subject": "a mountain road with a guardrail and a hairpin curve",
+      "prompt": "A smartphone photo taken through a car window of a mountain road with a guardrail and a hairpin curve. Faint reflections on the glass, flat light, slightly soft, plain framing, no filters. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C6",
+      "casual": true
+    },
+    "011": {
+      "subject": "rows of a vineyard in autumn",
+      "prompt": "An aerial drone photograph, looking down from about 100 metres, of rows of a vineyard in autumn. Crisp detail, natural colours, clean composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P4",
+      "casual": false
+    },
+    "012": {
+      "subject": "sand dunes with tufts of dry grass and some footprints",
+      "prompt": "A landscape photograph at golden hour of sand dunes with tufts of dry grass and some footprints. Warm low sun, rich colours, careful composition, sharp from foreground to background. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P2",
+      "casual": false
+    },
+    "013": {
+      "subject": "a small waterfall in a forest",
+      "prompt": "A long-exposure photograph on a tripod of a small waterfall in a forest. Silky smooth water or moving clouds, sharp rocks and trees, soft blue-hour light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P3",
+      "casual": false
+    },
+    "014": {
+      "subject": "a hillside covered in yellow gorse flowers with a dirt path running up it",
+      "prompt": "A casual smartphone photo of a hillside covered in yellow gorse flowers with a dirt path running up it. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "015": {
+      "subject": "a foggy meadow with a few scattered trees fading into the mist",
+      "prompt": "A moody fine-art photograph of a foggy meadow with a few scattered trees fading into the mist. Soft fog and diffuse light, muted tones, minimal composition, calm atmosphere. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P11",
+      "casual": false
+    },
+    "016": {
+      "subject": "a trodden path through tall dry grass leading toward a farmhouse",
+      "prompt": "A faded 1990s colour film photograph of a trodden path through tall dry grass leading toward a farmhouse. Warm tones, soft grain, slightly low contrast, a little soft focus. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P7",
+      "casual": false
+    },
+    "017": {
+      "subject": "a dark volcanic landscape with black rock and dry shrubs",
+      "prompt": "An aerial drone photograph, looking down from about 100 metres, of a dark volcanic landscape with black rock and dry shrubs. Crisp detail, natural colours, clean composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P4",
+      "casual": false
+    },
+    "018": {
+      "subject": "rock pools at low tide with seaweed and small shells",
+      "prompt": "A casual smartphone photo of rock pools at low tide with seaweed and small shells. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "019": {
+      "subject": "a city skyline across a river at blue hour",
+      "prompt": "An architectural photograph of a city skyline across a river at blue hour. Wide-angle lens, straight vertical lines, clean blue-hour light, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P8",
+      "casual": false
+    },
+    "020": {
+      "subject": "an empty market stall with crates of oranges and a hand-written price sign",
+      "prompt": "A casual smartphone photo of an empty market stall with crates of oranges and a hand-written price sign. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "021": {
+      "subject": "a plate of rice with a fried egg and tomato sauce on a kitchen table",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a plate of rice with a fried egg and tomato sauce on a kitchen table. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "022": {
+      "subject": "a slice of cake on a paper plate with a plastic fork, on a table with crumbs",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a slice of cake on a paper plate with a plastic fork, on a table with crumbs. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "023": {
+      "subject": "a bowl of cereal with milk on a kitchen counter, a spoon sticking out",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a bowl of cereal with milk on a kitchen counter, a spoon sticking out. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "024": {
+      "subject": "a sandwich wrapped in foil with one bite taken out",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a sandwich wrapped in foil with one bite taken out. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "025": {
+      "subject": "a frying pan with scrambled eggs on a stove, oil splatters around it",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a frying pan with scrambled eggs on a stove, oil splatters around it. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "026": {
+      "subject": "a baking tray of roast potatoes just out of the oven, a bit burnt on the edges",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a baking tray of roast potatoes just out of the oven, a bit burnt on the edges. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "027": {
+      "subject": "a half-eaten burger and some fries in a takeaway box",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a half-eaten burger and some fries in a takeaway box. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "028": {
+      "subject": "a bowl of ramen with a soft-boiled egg and green onions",
+      "prompt": "A styled professional food photograph of a bowl of ramen with a soft-boiled egg and green onions. Soft window light, shallow depth of field, clean plate, appetising, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P10",
+      "casual": false
+    },
+    "029": {
+      "subject": "a stack of pancakes with berries and syrup",
+      "prompt": "A styled professional food photograph of a stack of pancakes with berries and syrup. Soft window light, shallow depth of field, clean plate, appetising, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P10",
+      "casual": false
+    },
+    "030": {
+      "subject": "a rustic loaf of bread on a wooden board",
+      "prompt": "A styled professional food photograph of a rustic loaf of bread on a wooden board. Soft window light, shallow depth of field, clean plate, appetising, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P10",
+      "casual": false
+    },
+    "031": {
+      "subject": "a street cat sitting on a low concrete wall",
+      "prompt": "A casual smartphone photo of a street cat sitting on a low concrete wall. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "032": {
+      "subject": "a pigeon standing on the edge of a roof",
+      "prompt": "A casual smartphone photo of a pigeon standing on the edge of a roof. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "033": {
+      "subject": "a dog sleeping on a sofa with a crumpled blanket",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a dog sleeping on a sofa with a crumpled blanket. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "034": {
+      "subject": "a butterfly on a wild flower",
+      "prompt": "A macro photograph of a butterfly on a wild flower. Very shallow depth of field, creamy blurred background, sharp fine detail on the subject, soft natural light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P5",
+      "casual": false
+    },
+    "035": {
+      "subject": "a snail crawling on a wet green leaf",
+      "prompt": "A macro photograph of a snail crawling on a wet green leaf. Very shallow depth of field, creamy blurred background, sharp fine detail on the subject, soft natural light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P5",
+      "casual": false
+    },
+    "036": {
+      "subject": "a group of cows in a pasture, some looking at the camera, with a fence in front",
+      "prompt": "A casual smartphone photo of a group of cows in a pasture, some looking at the camera, with a fence in front. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "037": {
+      "subject": "a grey heron standing at the edge of a river",
+      "prompt": "A telephoto photograph of a grey heron standing at the edge of a river. Compressed distance, subject sharp, background smoothly blurred, natural light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P9",
+      "casual": false
+    },
+    "038": {
+      "subject": "an owl perched on a tree branch in the evening",
+      "prompt": "A telephoto photograph of an owl perched on a tree branch in the evening. Compressed distance, subject sharp, background smoothly blurred, natural light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P9",
+      "casual": false
+    },
+    "039": {
+      "subject": "a fox crossing a forest path at night",
+      "prompt": "A frame from a cheap security or dashboard camera showing a fox crossing a forest path at night. Low resolution, wide-lens distortion, heavy video compression, slightly desaturated colours, no timestamp or text overlay. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C5",
+      "casual": true
+    },
+    "040": {
+      "subject": "a bus stop on a rainy street with a big puddle",
+      "prompt": "A handheld smartphone night photo of a bus stop on a rainy street with a big puddle. Noisy shadows, blown-out street lights, soft detail, automatic exposure, slightly shaky, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C4",
+      "casual": true
+    },
+    "041": {
+      "subject": "an apartment building facade with laundry hanging on a few balconies and satellite dishes",
+      "prompt": "A casual smartphone photo of an apartment building facade with laundry hanging on a few balconies and satellite dishes. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "042": {
+      "subject": "a glass skyscraper seen from below",
+      "prompt": "An architectural photograph of a glass skyscraper seen from below. Wide-angle lens, straight vertical lines, clean blue-hour light, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P8",
+      "casual": false
+    },
+    "043": {
+      "subject": "an old stone church in a village square",
+      "prompt": "A faded 1990s colour film photograph of an old stone church in a village square. Warm tones, soft grain, slightly low contrast, a little soft focus. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P7",
+      "casual": false
+    },
+    "044": {
+      "subject": "a narrow alley with potted plants hanging from the walls",
+      "prompt": "A photo from an old 2000s compact digital camera of a narrow alley with potted plants hanging from the walls. Low resolution, slightly washed-out colours, soft detail, mild purple fringing, flat light, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C3",
+      "casual": true
+    },
+    "045": {
+      "subject": "a gas station at night with its lights on",
+      "prompt": "A handheld smartphone night photo of a gas station at night with its lights on. Noisy shadows, blown-out street lights, soft detail, automatic exposure, slightly shaky, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C4",
+      "casual": true
+    },
+    "046": {
+      "subject": "an empty parking lot with a few cars",
+      "prompt": "A frame from a cheap security or dashboard camera showing an empty parking lot with a few cars. Low resolution, wide-lens distortion, heavy video compression, slightly desaturated colours, no timestamp or text overlay. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C5",
+      "casual": true
+    },
+    "047": {
+      "subject": "a messy desk with a laptop, a mug, papers and cables",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a messy desk with a laptop, a mug, papers and cables. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "048": {
+      "subject": "a car parked in a garage full of boxes and tools",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a car parked in a garage full of boxes and tools. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "049": {
+      "subject": "an empty train platform with a bench and rails",
+      "prompt": "A casual smartphone photo of an empty train platform with a bench and rails. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "050": {
+      "subject": "a pile of shoes next to a front door, on a tiled floor",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a pile of shoes next to a front door, on a tiled floor. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "051": {
+      "subject": "a sink full of dirty dishes with a sponge on top",
+      "prompt": "A smartphone photo, taken with the built-in flash, of a sink full of dirty dishes with a sponge on top. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C2",
+      "casual": true
+    },
+    "052": {
+      "subject": "a small balcony with potted plants, a plastic chair and a clothes rack",
+      "prompt": "A casual smartphone photo of a small balcony with potted plants, a plastic chair and a clothes rack. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C1",
+      "casual": true
+    },
+    "053": {
+      "subject": "a view from a window over rooftops with a TV antenna, at dusk",
+      "prompt": "A handheld smartphone night photo of a view from a window over rooftops with a TV antenna, at dusk. Noisy shadows, blown-out street lights, soft detail, automatic exposure, slightly shaky, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C4",
+      "casual": true
+    },
+    "054": {
+      "subject": "a ceramic mug on a wooden table",
+      "prompt": "A studio product photograph of a ceramic mug on a wooden table. Plain neutral background, soft even lighting, sharp, centred, clean. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P12",
+      "casual": false
+    },
+    "055": {
+      "subject": "a pair of leather boots",
+      "prompt": "A studio product photograph of a pair of leather boots. Plain neutral background, soft even lighting, sharp, centred, clean. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P12",
+      "casual": false
+    },
+    "056": {
+      "subject": "a vintage bicycle leaning on a brick wall",
+      "prompt": "A professional DSLR photograph of a vintage bicycle leaning on a brick wall. 50mm lens, shallow depth of field, soft natural light, careful composition, sharp subject. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P1",
+      "casual": false
+    },
+    "057": {
+      "subject": "sailing boats in a harbour in the morning",
+      "prompt": "A landscape photograph at golden hour of sailing boats in a harbour in the morning. Warm low sun, rich colours, careful composition, sharp from foreground to background. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P2",
+      "casual": false
+    },
+    "058": {
+      "subject": "a red tractor parked in a field",
+      "prompt": "A photo from an old 2000s compact digital camera of a red tractor parked in a field. Low resolution, slightly washed-out colours, soft detail, mild purple fringing, flat light, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "C3",
+      "casual": true
+    },
+    "059": {
+      "subject": "a motorbike parked on a cobblestone street",
+      "prompt": "A professional DSLR photograph of a motorbike parked on a cobblestone street. 50mm lens, shallow depth of field, soft natural light, careful composition, sharp subject. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P1",
+      "casual": false
+    },
+    "060": {
+      "subject": "a mossy tree trunk, close-up",
+      "prompt": "A macro photograph of a mossy tree trunk, close-up. Very shallow depth of field, creamy blurred background, sharp fine detail on the subject, soft natural light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "style": "P5",
+      "casual": false
+    },
+    "101": {
+      "subject": "a snowy courtyard seen from above, with giant chess pieces",
+      "prompt": "A candid photo taken from a high apartment window of a snowy courtyard during snowfall: two snow-covered pine trees, a picnic table and a ping-pong table, a row of giant white chess pieces standing on the snow and many footprints crossing the courtyard. Overcast light, slightly desaturated, taken with a phone. Square format.",
+      "batch": "first batch (older prompts)"
+    },
+    "102": {
+      "subject": "penne with meatballs in a white bowl, flash photo",
+      "prompt": "A close-up photo taken with a phone flash of penne pasta with meatballs and caramelized onions in tomato sauce, in a white bowl on a white table. Slightly harsh flash lighting, amateur snapshot, a bit greasy and unstyled. Square format.",
+      "batch": "first batch (older prompts)"
+    },
+    "103": {
+      "subject": "a person seen from behind on a stone pier looking at the sea",
+      "prompt": "A candid photo of a young man seen from behind, wearing a dark navy puffer jacket and dark jeans with white sneakers, standing on a wide old stone pier and looking out at a calm grey sea under an overcast sky. Wide-angle phone camera, natural light, slightly tilted. Square format.",
+      "batch": "first batch (older prompts)"
+    },
+    "104": {
+      "subject": "brownies on baking paper, close-up",
+      "prompt": "A close-up phone photo of homemade brownies with a cracked shiny top, in a baking tin lined with crinkled parchment paper on a wooden board. Warm indoor light, slightly blurry edges, amateur snapshot. Square format.",
+      "batch": "first batch (older prompts)"
+    },
+    "105": {
+      "subject": "a grassy hillside with two walkers and tiny hikers on the ridge",
+      "prompt": "A phone photo of a green grassy hillside leading up to a rocky ridge under a blue sky with soft clouds. Two people walk away from the camera in the foreground, wearing dark jackets and jeans, and a few tiny hikers are visible along the ridge in the distance. Natural light, slightly wide-angle. Square format.",
+      "batch": "first batch (older prompts)"
+    },
+    "106": {
+      "subject": "a thin-crust pizza on a blue tablecloth",
+      "prompt": "A casual phone photo of a thin-crust pizza with melted cheese and minced meat sauce, already cut into slices with some slices pulled apart, on a light blue plate over a blue patterned tablecloth, with a drinking glass at the top edge. Indoor light, a bit overexposed, amateur snapshot. Square format.",
+      "batch": "first batch (older prompts)"
+    },
+    "107": {
+      "subject": "slanted rock slabs on a summit with hazy hills",
+      "prompt": "A phone photo from a mountain summit of slanted grey rock slabs covered with dry golden grass in the foreground, with layers of hazy blue hills and valleys stretching to the horizon. Clear day, slightly wide-angle lens, natural colors, no people. Square format.",
+      "batch": "first batch (older prompts)"
+    },
+    "108": {
+      "subject": "a wet path covered in autumn leaves",
+      "prompt": "A phone photo of a wet asphalt path winding through an autumn park, covered in fallen yellow and brown leaves, with ivy-covered tree trunks and thick bushes on both sides. Overcast, damp light, slightly blurry from walking, natural colors, no people. Square format.",
+      "batch": "first batch (older prompts)"
+    },
+    "109": {
+      "subject": "ducks swimming on an autumn pond",
+      "prompt": "A phone photo of a calm brown pond in autumn, with four mallard ducks swimming in a line in the middle distance, reflections of trees in the water, and bright green grass with a few fallen leaves in the foreground. Natural light, slightly crooked framing, casual snapshot. Square format.",
+      "batch": "first batch (older prompts)"
+    },
+    "110": {
+      "subject": "a stone-paved path through a green forest",
+      "prompt": "A phone photo of a narrow path paved with irregular flat stones going up through a dense green forest, sunlight filtering through the leaves, a small drainage channel along the right edge. Summer day, slightly wide-angle, natural colors, no people. Square format.",
+      "batch": "first batch (older prompts)"
+    }
+  }
+}

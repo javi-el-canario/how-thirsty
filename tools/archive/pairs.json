@@ -1,0 +1,154 @@
+[
+  {
+    "id": "sample-1",
+    "placeholder": true,
+    "subject": "a quiet lake",
+    "category": "photo",
+    "difficulty": 1,
+    "tell": "Placeholder pair: replace it with real pictures (see tools/PAIRS-PLAN.md).",
+    "real": {
+      "file": "images/pairs/sample-1-real.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    "ai": {
+      "file": "images/pairs/sample-1-ai.svg",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6
+    }
+  },
+  {
+    "id": "sample-2",
+    "placeholder": true,
+    "subject": "a stone bridge",
+    "category": "photo",
+    "difficulty": 2,
+    "tell": "Placeholder pair: replace it with real pictures (see tools/PAIRS-PLAN.md).",
+    "real": {
+      "file": "images/pairs/sample-2-real.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    "ai": {
+      "file": "images/pairs/sample-2-ai.svg",
+      "tool": "Gemini",
+      "tries": 2,
+      "wh": 1.2
+    }
+  },
+  {
+    "id": "sample-3",
+    "placeholder": true,
+    "subject": "a bowl of fruit",
+    "category": "photo",
+    "difficulty": 3,
+    "tell": "Placeholder pair: replace it with real pictures (see tools/PAIRS-PLAN.md).",
+    "real": {
+      "file": "images/pairs/sample-3-real.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    "ai": {
+      "file": "images/pairs/sample-3-ai.svg",
+      "tool": "Gemini",
+      "tries": 3,
+      "wh": 1.8
+    }
+  },
+  {
+    "id": "sample-4",
+    "placeholder": true,
+    "subject": "a lighthouse",
+    "category": "photo",
+    "difficulty": 1,
+    "tell": "Placeholder pair: replace it with real pictures (see tools/PAIRS-PLAN.md).",
+    "real": {
+      "file": "images/pairs/sample-4-real.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    "ai": {
+      "file": "images/pairs/sample-4-ai.svg",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6
+    }
+  },
+  {
+    "id": "sample-5",
+    "placeholder": true,
+    "subject": "a snowy cabin",
+    "category": "photo",
+    "difficulty": 2,
+    "tell": "Placeholder pair: replace it with real pictures (see tools/PAIRS-PLAN.md).",
+    "real": {
+      "file": "images/pairs/sample-5-real.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    "ai": {
+      "file": "images/pairs/sample-5-ai.svg",
+      "tool": "Gemini",
+      "tries": 2,
+      "wh": 1.2
+    }
+  },
+  {
+    "id": "sample-6",
+    "placeholder": true,
+    "subject": "a harbor painting",
+    "category": "art",
+    "difficulty": 3,
+    "tell": "Placeholder pair: replace it with real pictures (see tools/PAIRS-PLAN.md).",
+    "real": {
+      "file": "images/pairs/sample-6-real.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    "ai": {
+      "file": "images/pairs/sample-6-ai.svg",
+      "tool": "Gemini",
+      "tries": 3,
+      "wh": 1.8
+    }
+  },
+  {
+    "id": "sample-7",
+    "placeholder": true,
+    "subject": "a pencil tree",
+    "category": "art",
+    "difficulty": 1,
+    "tell": "Placeholder pair: replace it with real pictures (see tools/PAIRS-PLAN.md).",
+    "real": {
+      "file": "images/pairs/sample-7-real.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    "ai": {
+      "file": "images/pairs/sample-7-ai.svg",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6
+    }
+  },
+  {
+    "id": "sample-8",
+    "placeholder": true,
+    "subject": "a garden path",
+    "category": "art",
+    "difficulty": 2,
+    "tell": "Placeholder pair: replace it with real pictures (see tools/PAIRS-PLAN.md).",
+    "real": {
+      "file": "images/pairs/sample-8-real.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    "ai": {
+      "file": "images/pairs/sample-8-ai.svg",
+      "tool": "Gemini",
+      "tries": 2,
+      "wh": 1.2
+    }
+  }
+]

@@ -1,0 +1,859 @@
+{
+  "real": [
+    {
+      "id": "r001",
+      "file": "images/real/001.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r002",
+      "file": "images/real/002.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r003",
+      "file": "images/real/003.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r004",
+      "file": "images/real/004.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r005",
+      "file": "images/real/005.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r006",
+      "file": "images/real/006.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r007",
+      "file": "images/real/007.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r008",
+      "file": "images/real/008.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r009",
+      "file": "images/real/009.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r010",
+      "file": "images/real/010.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r011",
+      "file": "images/real/011.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r012",
+      "file": "images/real/012.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r013",
+      "file": "images/real/013.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r014",
+      "file": "images/real/014.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r015",
+      "file": "images/real/015.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r016",
+      "file": "images/real/016.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r017",
+      "file": "images/real/017.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r018",
+      "file": "images/real/018.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r019",
+      "file": "images/real/019.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r020",
+      "file": "images/real/020.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r021",
+      "file": "images/real/021.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r022",
+      "file": "images/real/022.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r023",
+      "file": "images/real/023.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r024",
+      "file": "images/real/024.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r025",
+      "file": "images/real/025.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r026",
+      "file": "images/real/026.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r027",
+      "file": "images/real/027.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r028",
+      "file": "images/real/028.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r029",
+      "file": "images/real/029.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r030",
+      "file": "images/real/030.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r031",
+      "file": "images/real/031.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r032",
+      "file": "images/real/032.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r033",
+      "file": "images/real/033.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r034",
+      "file": "images/real/034.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r035",
+      "file": "images/real/035.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r036",
+      "file": "images/real/036.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r037",
+      "file": "images/real/037.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r038",
+      "file": "images/real/038.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r039",
+      "file": "images/real/039.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r040",
+      "file": "images/real/040.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r041",
+      "file": "images/real/041.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r042",
+      "file": "images/real/042.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r043",
+      "file": "images/real/043.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r044",
+      "file": "images/real/044.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r045",
+      "file": "images/real/045.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    },
+    {
+      "id": "r046",
+      "file": "images/real/046.webp",
+      "credit": "Own photo",
+      "source": "Own photo",
+      "license": "Own work"
+    }
+  ],
+  "ai": [
+    {
+      "id": "a002",
+      "file": "images/ai/002.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A landscape photograph at golden hour of a small mountain village on a hillside with tiled roofs and a church tower. Warm low sun, rich colours, careful composition, sharp from foreground to background. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a small mountain village on a hillside with tiled roofs and a church tower"
+    },
+    {
+      "id": "a003",
+      "file": "images/ai/003.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A photo from an old 2000s compact digital camera of a rocky beach with seaweed, a few boulders and flat grey water. Low resolution, slightly washed-out colours, soft detail, mild purple fringing, flat light, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a rocky beach with seaweed, a few boulders and flat grey water"
+    },
+    {
+      "id": "a004",
+      "file": "images/ai/004.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A casual smartphone photo of a farmland field with a muddy tractor track and low hills in the distance. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a farmland field with a muddy tractor track and low hills in the distance"
+    },
+    {
+      "id": "a005",
+      "file": "images/ai/005.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A long-exposure photograph on a tripod of a shallow stream running over stones in a wooded valley. Silky smooth water or moving clouds, sharp rocks and trees, soft blue-hour light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a shallow stream running over stones in a wooded valley"
+    },
+    {
+      "id": "a006",
+      "file": "images/ai/006.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A casual smartphone photo of a grassy cliff top with a wire fence and the sea behind it. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a grassy cliff top with a wire fence and the sea behind it"
+    },
+    {
+      "id": "a007",
+      "file": "images/ai/007.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A photo from an old 2000s compact digital camera of a dry riverbed full of pebbles with a few dusty bushes along the edge. Low resolution, slightly washed-out colours, soft detail, mild purple fringing, flat light, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a dry riverbed full of pebbles with a few dusty bushes along the edge"
+    },
+    {
+      "id": "a008",
+      "file": "images/ai/008.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A moody fine-art photograph of a lake shore with reeds and an old wooden jetty. Soft fog and diffuse light, muted tones, minimal composition, calm atmosphere. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a lake shore with reeds and an old wooden jetty"
+    },
+    {
+      "id": "a009",
+      "file": "images/ai/009.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A black-and-white 35mm film photograph of a snowy field crossed by footprints, with a single leafless tree. Visible grain, strong contrast, documentary style, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a snowy field crossed by footprints, with a single leafless tree"
+    },
+    {
+      "id": "a010",
+      "file": "images/ai/010.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo taken through a car window of a mountain road with a guardrail and a hairpin curve. Faint reflections on the glass, flat light, slightly soft, plain framing, no filters. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a mountain road with a guardrail and a hairpin curve"
+    },
+    {
+      "id": "a011",
+      "file": "images/ai/011.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "An aerial drone photograph, looking down from about 100 metres, of rows of a vineyard in autumn. Crisp detail, natural colours, clean composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "rows of a vineyard in autumn"
+    },
+    {
+      "id": "a012",
+      "file": "images/ai/012.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A landscape photograph at golden hour of sand dunes with tufts of dry grass and some footprints. Warm low sun, rich colours, careful composition, sharp from foreground to background. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "sand dunes with tufts of dry grass and some footprints"
+    },
+    {
+      "id": "a013",
+      "file": "images/ai/013.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A long-exposure photograph on a tripod of a small waterfall in a forest. Silky smooth water or moving clouds, sharp rocks and trees, soft blue-hour light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a small waterfall in a forest"
+    },
+    {
+      "id": "a014",
+      "file": "images/ai/014.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A casual smartphone photo of a hillside covered in yellow gorse flowers with a dirt path running up it. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a hillside covered in yellow gorse flowers with a dirt path running up it"
+    },
+    {
+      "id": "a015",
+      "file": "images/ai/015.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A moody fine-art photograph of a foggy meadow with a few scattered trees fading into the mist. Soft fog and diffuse light, muted tones, minimal composition, calm atmosphere. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a foggy meadow with a few scattered trees fading into the mist"
+    },
+    {
+      "id": "a016",
+      "file": "images/ai/016.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A faded 1990s colour film photograph of a trodden path through tall dry grass leading toward a farmhouse. Warm tones, soft grain, slightly low contrast, a little soft focus. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a trodden path through tall dry grass leading toward a farmhouse"
+    },
+    {
+      "id": "a017",
+      "file": "images/ai/017.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "An aerial drone photograph, looking down from about 100 metres, of a dark volcanic landscape with black rock and dry shrubs. Crisp detail, natural colours, clean composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a dark volcanic landscape with black rock and dry shrubs"
+    },
+    {
+      "id": "a018",
+      "file": "images/ai/018.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A casual smartphone photo of rock pools at low tide with seaweed and small shells. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "rock pools at low tide with seaweed and small shells"
+    },
+    {
+      "id": "a019",
+      "file": "images/ai/019.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "An architectural photograph of a city skyline across a river at blue hour. Wide-angle lens, straight vertical lines, clean blue-hour light, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a city skyline across a river at blue hour"
+    },
+    {
+      "id": "a020",
+      "file": "images/ai/020.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A casual smartphone photo of an empty market stall with crates of oranges and a hand-written price sign. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "an empty market stall with crates of oranges and a hand-written price sign"
+    },
+    {
+      "id": "a021",
+      "file": "images/ai/021.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo, taken with the built-in flash, of a plate of rice with a fried egg and tomato sauce on a kitchen table. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a plate of rice with a fried egg and tomato sauce on a kitchen table"
+    },
+    {
+      "id": "a022",
+      "file": "images/ai/022.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo, taken with the built-in flash, of a slice of cake on a paper plate with a plastic fork, on a table with crumbs. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a slice of cake on a paper plate with a plastic fork, on a table with crumbs"
+    },
+    {
+      "id": "a023",
+      "file": "images/ai/023.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo, taken with the built-in flash, of a bowl of cereal with milk on a kitchen counter, a spoon sticking out. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a bowl of cereal with milk on a kitchen counter, a spoon sticking out"
+    },
+    {
+      "id": "a024",
+      "file": "images/ai/024.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo, taken with the built-in flash, of a sandwich wrapped in foil with one bite taken out. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a sandwich wrapped in foil with one bite taken out"
+    },
+    {
+      "id": "a025",
+      "file": "images/ai/025.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo, taken with the built-in flash, of a frying pan with scrambled eggs on a stove, oil splatters around it. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a frying pan with scrambled eggs on a stove, oil splatters around it"
+    },
+    {
+      "id": "a026",
+      "file": "images/ai/026.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo, taken with the built-in flash, of a baking tray of roast potatoes just out of the oven, a bit burnt on the edges. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a baking tray of roast potatoes just out of the oven, a bit burnt on the edges"
+    },
+    {
+      "id": "a027",
+      "file": "images/ai/027.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo, taken with the built-in flash, of a half-eaten burger and some fries in a takeaway box. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a half-eaten burger and some fries in a takeaway box"
+    },
+    {
+      "id": "a028",
+      "file": "images/ai/028.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A styled professional food photograph of a bowl of ramen with a soft-boiled egg and green onions. Soft window light, shallow depth of field, clean plate, appetising, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a bowl of ramen with a soft-boiled egg and green onions"
+    },
+    {
+      "id": "a029",
+      "file": "images/ai/029.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A styled professional food photograph of a stack of pancakes with berries and syrup. Soft window light, shallow depth of field, clean plate, appetising, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a stack of pancakes with berries and syrup"
+    },
+    {
+      "id": "a030",
+      "file": "images/ai/030.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A styled professional food photograph of a rustic loaf of bread on a wooden board. Soft window light, shallow depth of field, clean plate, appetising, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a rustic loaf of bread on a wooden board"
+    },
+    {
+      "id": "a031",
+      "file": "images/ai/031.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A casual smartphone photo of a street cat sitting on a low concrete wall. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a street cat sitting on a low concrete wall"
+    },
+    {
+      "id": "a032",
+      "file": "images/ai/032.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A casual smartphone photo of a pigeon standing on the edge of a roof. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a pigeon standing on the edge of a roof"
+    },
+    {
+      "id": "a033",
+      "file": "images/ai/033.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo, taken with the built-in flash, of a dog sleeping on a sofa with a crumpled blanket. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a dog sleeping on a sofa with a crumpled blanket"
+    },
+    {
+      "id": "a034",
+      "file": "images/ai/034.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A macro photograph of a butterfly on a wild flower. Very shallow depth of field, creamy blurred background, sharp fine detail on the subject, soft natural light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a butterfly on a wild flower"
+    },
+    {
+      "id": "a035",
+      "file": "images/ai/035.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A macro photograph of a snail crawling on a wet green leaf. Very shallow depth of field, creamy blurred background, sharp fine detail on the subject, soft natural light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a snail crawling on a wet green leaf"
+    },
+    {
+      "id": "a036",
+      "file": "images/ai/036.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A casual smartphone photo of a group of cows in a pasture, some looking at the camera, with a fence in front. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a group of cows in a pasture, some looking at the camera, with a fence in front"
+    },
+    {
+      "id": "a037",
+      "file": "images/ai/037.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A telephoto photograph of a grey heron standing at the edge of a river. Compressed distance, subject sharp, background smoothly blurred, natural light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a grey heron standing at the edge of a river"
+    },
+    {
+      "id": "a038",
+      "file": "images/ai/038.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A telephoto photograph of an owl perched on a tree branch in the evening. Compressed distance, subject sharp, background smoothly blurred, natural light. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "an owl perched on a tree branch in the evening"
+    },
+    {
+      "id": "a039",
+      "file": "images/ai/039.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A frame from a cheap security or dashboard camera showing a fox crossing a forest path at night. Low resolution, wide-lens distortion, heavy video compression, slightly desaturated colours, no timestamp or text overlay. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a fox crossing a forest path at night"
+    },
+    {
+      "id": "a040",
+      "file": "images/ai/040.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A handheld smartphone night photo of a bus stop on a rainy street with a big puddle. Noisy shadows, blown-out street lights, soft detail, automatic exposure, slightly shaky, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a bus stop on a rainy street with a big puddle"
+    },
+    {
+      "id": "a041",
+      "file": "images/ai/041.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A casual smartphone photo of an apartment building facade with laundry hanging on a few balconies and satellite dishes. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "an apartment building facade with laundry hanging on a few balconies and satellite dishes"
+    },
+    {
+      "id": "a042",
+      "file": "images/ai/042.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "An architectural photograph of a glass skyscraper seen from below. Wide-angle lens, straight vertical lines, clean blue-hour light, careful composition. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a glass skyscraper seen from below"
+    },
+    {
+      "id": "a043",
+      "file": "images/ai/043.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A faded 1990s colour film photograph of an old stone church in a village square. Warm tones, soft grain, slightly low contrast, a little soft focus. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "an old stone church in a village square"
+    },
+    {
+      "id": "a044",
+      "file": "images/ai/044.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A photo from an old 2000s compact digital camera of a narrow alley with potted plants hanging from the walls. Low resolution, slightly washed-out colours, soft detail, mild purple fringing, flat light, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a narrow alley with potted plants hanging from the walls"
+    },
+    {
+      "id": "a045",
+      "file": "images/ai/045.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A handheld smartphone night photo of a gas station at night with its lights on. Noisy shadows, blown-out street lights, soft detail, automatic exposure, slightly shaky, plain framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a gas station at night with its lights on"
+    },
+    {
+      "id": "a046",
+      "file": "images/ai/046.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A frame from a cheap security or dashboard camera showing an empty parking lot with a few cars. Low resolution, wide-lens distortion, heavy video compression, slightly desaturated colours, no timestamp or text overlay. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "an empty parking lot with a few cars"
+    },
+    {
+      "id": "a047",
+      "file": "images/ai/047.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo, taken with the built-in flash, of a messy desk with a laptop, a mug, papers and cables. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a messy desk with a laptop, a mug, papers and cables"
+    },
+    {
+      "id": "a048",
+      "file": "images/ai/048.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo, taken with the built-in flash, of a car parked in a garage full of boxes and tools. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a car parked in a garage full of boxes and tools"
+    },
+    {
+      "id": "a049",
+      "file": "images/ai/049.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A casual smartphone photo of an empty train platform with a bench and rails. Unedited, flat daylight, slightly soft and a little noisy, small JPEG artifacts, everything in focus, no filters, plain ordinary framing. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "an empty train platform with a bench and rails"
+    },
+    {
+      "id": "a050",
+      "file": "images/ai/050.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A smartphone photo, taken with the built-in flash, of a pile of shoes next to a front door, on a tiled floor. Harsh flat flash light, slightly overexposed centre, dark corners, a little noise, plain framing, not styled, not artistic. No people, and no hands, feet, shadows or reflections of the photographer; no part of the camera or phone is visible. Fill the whole frame, no borders. Square format.",
+      "subject": "a pile of shoes next to a front door, on a tiled floor"
+    },
+    {
+      "id": "a101",
+      "file": "images/ai/101.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A candid photo taken from a high apartment window of a snowy courtyard during snowfall: two snow-covered pine trees, a picnic table and a ping-pong table, a row of giant white chess pieces standing on the snow and many footprints crossing the courtyard. Overcast light, slightly desaturated, taken with a phone. Square format.",
+      "subject": "a snowy courtyard seen from above, with giant chess pieces"
+    },
+    {
+      "id": "a102",
+      "file": "images/ai/102.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A close-up photo taken with a phone flash of penne pasta with meatballs and caramelized onions in tomato sauce, in a white bowl on a white table. Slightly harsh flash lighting, amateur snapshot, a bit greasy and unstyled. Square format.",
+      "subject": "penne with meatballs in a white bowl, flash photo"
+    },
+    {
+      "id": "a103",
+      "file": "images/ai/103.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A candid photo of a young man seen from behind, wearing a dark navy puffer jacket and dark jeans with white sneakers, standing on a wide old stone pier and looking out at a calm grey sea under an overcast sky. Wide-angle phone camera, natural light, slightly tilted. Square format.",
+      "subject": "a person seen from behind on a stone pier looking at the sea"
+    },
+    {
+      "id": "a104",
+      "file": "images/ai/104.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A close-up phone photo of homemade brownies with a cracked shiny top, in a baking tin lined with crinkled parchment paper on a wooden board. Warm indoor light, slightly blurry edges, amateur snapshot. Square format.",
+      "subject": "brownies on baking paper, close-up"
+    },
+    {
+      "id": "a105",
+      "file": "images/ai/105.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A phone photo of a green grassy hillside leading up to a rocky ridge under a blue sky with soft clouds. Two people walk away from the camera in the foreground, wearing dark jackets and jeans, and a few tiny hikers are visible along the ridge in the distance. Natural light, slightly wide-angle. Square format.",
+      "subject": "a grassy hillside with two walkers and tiny hikers on the ridge"
+    },
+    {
+      "id": "a106",
+      "file": "images/ai/106.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A casual phone photo of a thin-crust pizza with melted cheese and minced meat sauce, already cut into slices with some slices pulled apart, on a light blue plate over a blue patterned tablecloth, with a drinking glass at the top edge. Indoor light, a bit overexposed, amateur snapshot. Square format.",
+      "subject": "a thin-crust pizza on a blue tablecloth"
+    },
+    {
+      "id": "a107",
+      "file": "images/ai/107.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A phone photo from a mountain summit of slanted grey rock slabs covered with dry golden grass in the foreground, with layers of hazy blue hills and valleys stretching to the horizon. Clear day, slightly wide-angle lens, natural colors, no people. Square format.",
+      "subject": "slanted rock slabs on a summit with hazy hills"
+    },
+    {
+      "id": "a108",
+      "file": "images/ai/108.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A phone photo of a wet asphalt path winding through an autumn park, covered in fallen yellow and brown leaves, with ivy-covered tree trunks and thick bushes on both sides. Overcast, damp light, slightly blurry from walking, natural colors, no people. Square format.",
+      "subject": "a wet path covered in autumn leaves"
+    },
+    {
+      "id": "a109",
+      "file": "images/ai/109.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A phone photo of a calm brown pond in autumn, with four mallard ducks swimming in a line in the middle distance, reflections of trees in the water, and bright green grass with a few fallen leaves in the foreground. Natural light, slightly crooked framing, casual snapshot. Square format.",
+      "subject": "ducks swimming on an autumn pond"
+    },
+    {
+      "id": "a110",
+      "file": "images/ai/110.webp",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "prompt": "A phone photo of a narrow path paved with irregular flat stones going up through a dense green forest, sunlight filtering through the leaves, a small drainage channel along the right edge. Summer day, slightly wide-angle, natural colors, no people. Square format.",
+      "subject": "a stone-paved path through a green forest"
+    }
+  ]
+}

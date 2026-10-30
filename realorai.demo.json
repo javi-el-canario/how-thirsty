@@ -1,0 +1,118 @@
+{
+  "real": [
+    {
+      "id": "dr1",
+      "file": "images/demo/real-1.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    {
+      "id": "dr2",
+      "file": "images/demo/real-2.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    {
+      "id": "dr3",
+      "file": "images/demo/real-3.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    {
+      "id": "dr4",
+      "file": "images/demo/real-4.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    {
+      "id": "dr5",
+      "file": "images/demo/real-5.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    {
+      "id": "dr6",
+      "file": "images/demo/real-6.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    {
+      "id": "dr7",
+      "file": "images/demo/real-7.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    },
+    {
+      "id": "dr8",
+      "file": "images/demo/real-8.svg",
+      "credit": "Sample",
+      "source": "placeholder"
+    }
+  ],
+  "ai": [
+    {
+      "id": "da1",
+      "file": "images/demo/ai-1.svg",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "tell": "Placeholder picture: the demo only shows how the game works."
+    },
+    {
+      "id": "da2",
+      "file": "images/demo/ai-2.svg",
+      "tool": "Gemini",
+      "tries": 2,
+      "wh": 1.2,
+      "tell": "Placeholder picture: the demo only shows how the game works."
+    },
+    {
+      "id": "da3",
+      "file": "images/demo/ai-3.svg",
+      "tool": "Gemini",
+      "tries": 3,
+      "wh": 1.8,
+      "tell": "Placeholder picture: the demo only shows how the game works."
+    },
+    {
+      "id": "da4",
+      "file": "images/demo/ai-4.svg",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "tell": "Placeholder picture: the demo only shows how the game works."
+    },
+    {
+      "id": "da5",
+      "file": "images/demo/ai-5.svg",
+      "tool": "Gemini",
+      "tries": 2,
+      "wh": 1.2,
+      "tell": "Placeholder picture: the demo only shows how the game works."
+    },
+    {
+      "id": "da6",
+      "file": "images/demo/ai-6.svg",
+      "tool": "Gemini",
+      "tries": 3,
+      "wh": 1.8,
+      "tell": "Placeholder picture: the demo only shows how the game works."
+    },
+    {
+      "id": "da7",
+      "file": "images/demo/ai-7.svg",
+      "tool": "Gemini",
+      "tries": 1,
+      "wh": 0.6,
+      "tell": "Placeholder picture: the demo only shows how the game works."
+    },
+    {
+      "id": "da8",
+      "file": "images/demo/ai-8.svg",
+      "tool": "Gemini",
+      "tries": 2,
+      "wh": 1.2,
+      "tell": "Placeholder picture: the demo only shows how the game works."
+    }
+  ]
+}

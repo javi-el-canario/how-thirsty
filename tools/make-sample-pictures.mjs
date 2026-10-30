@@ -1,0 +1,25 @@
+// Writes placeholder pictures (colored SVGs) + realorai.demo.json so "Real or AI?" can be tried at index.html?demo
+// Run: node tools/make-sample-pictures.mjs   (only needed to regenerate the demo)
+import { writeFileSync, mkdirSync } from "node:fs";
+
+mkdirSync(new URL("../images/demo/", import.meta.url), { recursive: true });
+const shapes = [
+  (c) => `<circle cx="200" cy="190" r="90" fill="${c}"/>`,
+  (c) => `<rect x="110" y="110" width="180" height="180" rx="10" fill="${c}"/>`,
+  (c) => `<polygon points="40,320 160,140 220,230 270,170 360,320" fill="${c}"/>`,
+  (c) => `<path d="M0 250 Q 50 190 100 250 T 200 250 T 300 250 T 400 250 V400 H0 Z" fill="${c}"/>`,
+];
+const palettes = [["#ffb88c", "#de6262"], ["#a1c4fd", "#2f66dc"], ["#c3ec52", "#0ba29d"], ["#fbc2eb", "#a6c1ee"], ["#fddb92", "#d1fdff"], ["#84fab0", "#8fd3f4"], ["#f6d365", "#fda085"], ["#cfd9df", "#e2ebf0"]];
+const svg = (i, flip) => {
+  const [a, b] = palettes[i % palettes.length];
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${flip ? b : a}"/><stop offset="1" stop-color="${flip ? a : b}"/></linearGradient></defs><rect width="400" height="400" fill="url(#g)"/>${shapes[i % shapes.length]("#ffffff")}<text x="200" y="384" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#000" opacity=".45">placeholder</text></svg>`;
+};
+const real = [], ai = [];
+for (let i = 0; i < 8; i++) {
+  writeFileSync(new URL(`../images/demo/real-${i + 1}.svg`, import.meta.url), svg(i, false));
+  writeFileSync(new URL(`../images/demo/ai-${i + 1}.svg`, import.meta.url), svg(i, true));
+  real.push({ id: `dr${i + 1}`, file: `images/demo/real-${i + 1}.svg`, credit: "Sample", source: "placeholder" });
+  ai.push({ id: `da${i + 1}`, file: `images/demo/ai-${i + 1}.svg`, tool: "Gemini", tries: (i % 3) + 1, wh: Number((0.6 * ((i % 3) + 1)).toFixed(2)), tell: "Placeholder picture: the demo only shows how the game works." });
+}
+writeFileSync(new URL("../realorai.demo.json", import.meta.url), JSON.stringify({ real, ai }, null, 2) + "\n");
+console.log("wrote 8 + 8 placeholder pictures and realorai.demo.json");

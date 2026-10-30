@@ -1,0 +1,669 @@
+{
+  "_readme": "Save pictures as images/pairs/NN-real.webp and images/pairs/NN-ai.webp (NN = pair number). Fill tools/pairs-credits.json for every real picture, then run: node tools/build-pairs-json.mjs",
+  "assumptions": {
+    "whPerGeneration": 0.6,
+    "meaning": "ai.wh = 0.6 Wh x tries (estimate, not a measurement). Update `tries` with the real number. Water in the game = Wh x 1 ml (x4 with the power-generation toggle)."
+  },
+  "pairs": [
+    {
+      "id": "01",
+      "subject": "a mountain lake at sunrise with pine trees",
+      "category": "photo",
+      "difficulty": 1,
+      "tell": "Colors are too perfect: a glowing pastel sky, a mirror-flat reflection and every tree equally sharp.",
+      "ai": {
+        "prompt": "a mountain lake at sunrise with pine trees",
+        "tool": "Gemini",
+        "tries": 1,
+        "wh": 0.6
+      },
+      "real": {
+        "search": "mountain lake sunrise pine trees",
+        "look": "an ordinary, slightly imperfect amateur-looking photo (not too polished)",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/01-real.webp",
+        "ai": "images/pairs/01-ai.webp"
+      }
+    },
+    {
+      "id": "02",
+      "subject": "a bowl of ramen with a soft-boiled egg",
+      "category": "photo",
+      "difficulty": 2,
+      "tell": "Check the chopsticks, the egg and the rim of the bowl: AI often melts or merges details there.",
+      "ai": {
+        "prompt": "a candid photo of a bowl of ramen with a soft-boiled egg, natural light, shot on a phone",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "bowl of ramen soft boiled egg",
+        "look": "a normal good photo",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/02-real.webp",
+        "ai": "images/pairs/02-ai.webp"
+      }
+    },
+    {
+      "id": "03",
+      "subject": "a red fox in the snow",
+      "category": "photo",
+      "difficulty": 2,
+      "tell": "Look at fur edges and whiskers: AI tends to blur them or repeat the same fur pattern.",
+      "ai": {
+        "prompt": "a candid photo of a red fox in the snow, natural light, shot on a phone",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "red fox in snow",
+        "look": "a normal good photo",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/03-real.webp",
+        "ai": "images/pairs/03-ai.webp"
+      }
+    },
+    {
+      "id": "04",
+      "subject": "an old stone bridge over a river",
+      "category": "photo",
+      "difficulty": 2,
+      "tell": "Count the arches and stones: the pattern often drifts or repeats in impossible ways.",
+      "ai": {
+        "prompt": "a candid photo of an old stone bridge over a river, natural light, shot on a phone",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "old stone bridge river",
+        "look": "a normal good photo",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/04-real.webp",
+        "ai": "images/pairs/04-ai.webp"
+      }
+    },
+    {
+      "id": "05",
+      "subject": "a vegetable stall at a street market, with a hand-painted sign",
+      "category": "photo",
+      "difficulty": 3,
+      "tell": "Signs and price tags: AI text is usually gibberish, and produce shapes blur into each other.",
+      "ai": {
+        "prompt": "a candid, slightly imperfect snapshot of a vegetable stall at a street market, with a hand-painted sign, natural light, subtle film grain",
+        "tool": "Gemini",
+        "tries": 3,
+        "wh": 1.8
+      },
+      "real": {
+        "search": "vegetable market stall",
+        "look": "a very polished, professional, vivid photo that looks \"too perfect\" (this makes the pair hard)",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/05-real.webp",
+        "ai": "images/pairs/05-ai.webp"
+      }
+    },
+    {
+      "id": "06",
+      "subject": "a cup of coffee on a wooden table",
+      "category": "photo",
+      "difficulty": 1,
+      "tell": "Too clean and symmetrical: perfect latte art on a spotless table.",
+      "ai": {
+        "prompt": "a cup of coffee on a wooden table",
+        "tool": "Gemini",
+        "tries": 1,
+        "wh": 0.6
+      },
+      "real": {
+        "search": "cup of coffee wooden table",
+        "look": "an ordinary, slightly imperfect amateur-looking photo (not too polished)",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/06-real.webp",
+        "ai": "images/pairs/06-ai.webp"
+      }
+    },
+    {
+      "id": "07",
+      "subject": "sand dunes at sunset",
+      "category": "photo",
+      "difficulty": 1,
+      "tell": "The ridge lines are unnaturally smooth and the light is too dramatic.",
+      "ai": {
+        "prompt": "sand dunes at sunset",
+        "tool": "Gemini",
+        "tries": 1,
+        "wh": 0.6
+      },
+      "real": {
+        "search": "sand dunes sunset",
+        "look": "an ordinary, slightly imperfect amateur-looking photo (not too polished)",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/07-real.webp",
+        "ai": "images/pairs/07-ai.webp"
+      }
+    },
+    {
+      "id": "08",
+      "subject": "a cat sitting on a windowsill",
+      "category": "photo",
+      "difficulty": 2,
+      "tell": "Paws, whiskers and the window frame: toes and edges often go wrong.",
+      "ai": {
+        "prompt": "a candid photo of a cat sitting on a windowsill, natural light, shot on a phone",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "cat sitting on windowsill",
+        "look": "a normal good photo",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/08-real.webp",
+        "ai": "images/pairs/08-ai.webp"
+      }
+    },
+    {
+      "id": "09",
+      "subject": "a close-up of a dewy green leaf",
+      "category": "photo",
+      "difficulty": 2,
+      "tell": "The water drops are too regular, and the veins of the leaf don't quite connect.",
+      "ai": {
+        "prompt": "a candid photo of a close-up of a dewy green leaf, natural light, shot on a phone",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "dew drops green leaf macro",
+        "look": "a normal good photo",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/09-real.webp",
+        "ai": "images/pairs/09-ai.webp"
+      }
+    },
+    {
+      "id": "10",
+      "subject": "a bicycle leaning on a brick wall",
+      "category": "photo",
+      "difficulty": 2,
+      "tell": "Spokes, chain and pedals: parts merge or are miscounted, and the bricks repeat strangely.",
+      "ai": {
+        "prompt": "a candid photo of a bicycle leaning on a brick wall, natural light, shot on a phone",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "bicycle leaning brick wall",
+        "look": "a normal good photo",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/10-real.webp",
+        "ai": "images/pairs/10-ai.webp"
+      }
+    },
+    {
+      "id": "11",
+      "subject": "a bowl of fresh strawberries",
+      "category": "photo",
+      "difficulty": 1,
+      "tell": "Perfect, nearly identical berries with unnaturally even shiny highlights.",
+      "ai": {
+        "prompt": "a bowl of fresh strawberries",
+        "tool": "Gemini",
+        "tries": 1,
+        "wh": 0.6
+      },
+      "real": {
+        "search": "bowl of strawberries",
+        "look": "an ordinary, slightly imperfect amateur-looking photo (not too polished)",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/11-real.webp",
+        "ai": "images/pairs/11-ai.webp"
+      }
+    },
+    {
+      "id": "12",
+      "subject": "a lighthouse on a rocky coast in stormy weather",
+      "category": "photo",
+      "difficulty": 2,
+      "tell": "Waves and clouds are too dramatic, and the windows or railings of the lighthouse don't make sense.",
+      "ai": {
+        "prompt": "a candid photo of a lighthouse on a rocky coast in stormy weather, natural light, shot on a phone",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "lighthouse stormy coast",
+        "look": "a normal good photo",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/12-real.webp",
+        "ai": "images/pairs/12-ai.webp"
+      }
+    },
+    {
+      "id": "13",
+      "subject": "a forest path in autumn",
+      "category": "photo",
+      "difficulty": 1,
+      "tell": "Leaf colors are over-saturated and the perspective of the path is a bit off.",
+      "ai": {
+        "prompt": "a forest path in autumn",
+        "tool": "Gemini",
+        "tries": 1,
+        "wh": 0.6
+      },
+      "real": {
+        "search": "forest path autumn",
+        "look": "an ordinary, slightly imperfect amateur-looking photo (not too polished)",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/13-real.webp",
+        "ai": "images/pairs/13-ai.webp"
+      }
+    },
+    {
+      "id": "14",
+      "subject": "a small bakery shop front, with its name painted above the door",
+      "category": "photo",
+      "difficulty": 3,
+      "tell": "Read the sign: AI text is usually nonsense, and the window reflections don't match the street.",
+      "ai": {
+        "prompt": "a candid, slightly imperfect snapshot of a small bakery shop front, with its name painted above the door, natural light, subtle film grain",
+        "tool": "Gemini",
+        "tries": 3,
+        "wh": 1.8
+      },
+      "real": {
+        "search": "bakery shop front",
+        "look": "a very polished, professional, vivid photo that looks \"too perfect\" (this makes the pair hard)",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/14-real.webp",
+        "ai": "images/pairs/14-ai.webp"
+      }
+    },
+    {
+      "id": "15",
+      "subject": "a pair of worn leather boots",
+      "category": "photo",
+      "difficulty": 2,
+      "tell": "Laces and stitching break their pattern, and the two boots rarely match each other.",
+      "ai": {
+        "prompt": "a candid photo of a pair of worn leather boots, natural light, shot on a phone",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "worn leather boots",
+        "look": "a normal good photo",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/15-real.webp",
+        "ai": "images/pairs/15-ai.webp"
+      }
+    },
+    {
+      "id": "16",
+      "subject": "a flock of birds flying at sunset",
+      "category": "photo",
+      "difficulty": 3,
+      "tell": "Count wings and legs: some birds have extra limbs or merge into each other.",
+      "ai": {
+        "prompt": "a candid, slightly imperfect snapshot of a flock of birds flying at sunset, natural light, subtle film grain, no text",
+        "tool": "Gemini",
+        "tries": 3,
+        "wh": 1.8
+      },
+      "real": {
+        "search": "flock of birds sunset",
+        "look": "a very polished, professional, vivid photo that looks \"too perfect\" (this makes the pair hard)",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/16-real.webp",
+        "ai": "images/pairs/16-ai.webp"
+      }
+    },
+    {
+      "id": "17",
+      "subject": "a modern glass skyscraper seen from below",
+      "category": "photo",
+      "difficulty": 3,
+      "tell": "The window grid bends or changes spacing, and the floors don't line up.",
+      "ai": {
+        "prompt": "a candid, slightly imperfect snapshot of a modern glass skyscraper seen from below, natural light, subtle film grain, no text",
+        "tool": "Gemini",
+        "tries": 3,
+        "wh": 1.8
+      },
+      "real": {
+        "search": "glass skyscraper from below",
+        "look": "a very polished, professional, vivid photo that looks \"too perfect\" (this makes the pair hard)",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/17-real.webp",
+        "ai": "images/pairs/17-ai.webp"
+      }
+    },
+    {
+      "id": "18",
+      "subject": "a bowl of steaming soup, close-up",
+      "category": "photo",
+      "difficulty": 2,
+      "tell": "The steam is too regular, and bits of food melt into the broth.",
+      "ai": {
+        "prompt": "a candid photo of a bowl of steaming soup, close-up, natural light, shot on a phone",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "bowl of soup steam close-up",
+        "look": "a normal good photo",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/18-real.webp",
+        "ai": "images/pairs/18-ai.webp"
+      }
+    },
+    {
+      "id": "19",
+      "subject": "a snowy village street at dusk with no people",
+      "category": "photo",
+      "difficulty": 3,
+      "tell": "Lights and windows look right at a glance, but rooflines and chimneys don't connect properly.",
+      "ai": {
+        "prompt": "a candid, slightly imperfect snapshot of a snowy village street at dusk with no people, natural light, subtle film grain, no text",
+        "tool": "Gemini",
+        "tries": 3,
+        "wh": 1.8
+      },
+      "real": {
+        "search": "snowy village street dusk",
+        "look": "a very polished, professional, vivid photo that looks \"too perfect\" (this makes the pair hard)",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/19-real.webp",
+        "ai": "images/pairs/19-ai.webp"
+      }
+    },
+    {
+      "id": "20",
+      "subject": "a wooden cabin beside a lake",
+      "category": "photo",
+      "difficulty": 2,
+      "tell": "Wood planks, railings and the reflection in the water don't quite match.",
+      "ai": {
+        "prompt": "a candid photo of a wooden cabin beside a lake, natural light, shot on a phone",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "wooden cabin lake",
+        "look": "a normal good photo",
+        "sources": "Pexels, Unsplash, Wikimedia Commons (filter: public domain / CC0), Openverse"
+      },
+      "files": {
+        "real": "images/pairs/20-real.webp",
+        "ai": "images/pairs/20-ai.webp"
+      }
+    },
+    {
+      "id": "21",
+      "subject": "an oil painting of a harbor with sailboats",
+      "category": "art",
+      "difficulty": 2,
+      "tell": "Rigging lines and boat shapes: AI invents ropes and masts that lead nowhere.",
+      "ai": {
+        "prompt": "an oil painting of a harbor with sailboats, looks like a scan of a real artwork",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "oil painting harbor sailboats 19th century",
+        "look": "a genuine artwork scan from a museum collection",
+        "sources": "The Met Open Access, Rijksmuseum, Art Institute of Chicago (CC0), Wikimedia Commons, Biodiversity Heritage Library (botanical)"
+      },
+      "files": {
+        "real": "images/pairs/21-real.webp",
+        "ai": "images/pairs/21-ai.webp"
+      }
+    },
+    {
+      "id": "22",
+      "subject": "a pencil sketch of an old tree",
+      "category": "art",
+      "difficulty": 2,
+      "tell": "The shading is too even; real sketches show visible strokes and hesitations.",
+      "ai": {
+        "prompt": "a pencil sketch of an old tree, looks like a scan of a real artwork",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "pencil sketch old tree",
+        "look": "a genuine artwork scan from a museum collection",
+        "sources": "The Met Open Access, Rijksmuseum, Art Institute of Chicago (CC0), Wikimedia Commons, Biodiversity Heritage Library (botanical)"
+      },
+      "files": {
+        "real": "images/pairs/22-real.webp",
+        "ai": "images/pairs/22-ai.webp"
+      }
+    },
+    {
+      "id": "23",
+      "subject": "a watercolor landscape of rolling hills",
+      "category": "art",
+      "difficulty": 3,
+      "tell": "Real watercolors have pooling and hard edges where the paint dried; AI looks smoothly blended.",
+      "ai": {
+        "prompt": "a watercolor landscape of rolling hills, looks like a scan of a real artwork with visible paper texture and small imperfections",
+        "tool": "Gemini",
+        "tries": 3,
+        "wh": 1.8
+      },
+      "real": {
+        "search": "watercolor landscape hills",
+        "look": "a genuine, high-quality museum scan with soft, blended technique (this makes the pair hard)",
+        "sources": "The Met Open Access, Rijksmuseum, Art Institute of Chicago (CC0), Wikimedia Commons, Biodiversity Heritage Library (botanical)"
+      },
+      "files": {
+        "real": "images/pairs/23-real.webp",
+        "ai": "images/pairs/23-ai.webp"
+      }
+    },
+    {
+      "id": "24",
+      "subject": "a vintage botanical illustration of a flower",
+      "category": "art",
+      "difficulty": 2,
+      "tell": "Petals, leaves and labels: counts and lettering are slightly wrong.",
+      "ai": {
+        "prompt": "a vintage botanical illustration of a flower, looks like a scan of a real artwork",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "botanical illustration flower vintage",
+        "look": "a genuine artwork scan from a museum collection",
+        "sources": "The Met Open Access, Rijksmuseum, Art Institute of Chicago (CC0), Wikimedia Commons, Biodiversity Heritage Library (botanical)"
+      },
+      "files": {
+        "real": "images/pairs/24-real.webp",
+        "ai": "images/pairs/24-ai.webp"
+      }
+    },
+    {
+      "id": "25",
+      "subject": "an ink drawing of a medieval village",
+      "category": "art",
+      "difficulty": 3,
+      "tell": "Houses merge into each other and the line widths are too uniform.",
+      "ai": {
+        "prompt": "an ink drawing of a medieval village, looks like a scan of a real artwork with visible paper texture and small imperfections",
+        "tool": "Gemini",
+        "tries": 3,
+        "wh": 1.8
+      },
+      "real": {
+        "search": "ink drawing medieval village",
+        "look": "a genuine, high-quality museum scan with soft, blended technique (this makes the pair hard)",
+        "sources": "The Met Open Access, Rijksmuseum, Art Institute of Chicago (CC0), Wikimedia Commons, Biodiversity Heritage Library (botanical)"
+      },
+      "files": {
+        "real": "images/pairs/25-real.webp",
+        "ai": "images/pairs/25-ai.webp"
+      }
+    },
+    {
+      "id": "26",
+      "subject": "an impressionist painting of a garden path",
+      "category": "art",
+      "difficulty": 3,
+      "tell": "Real brushwork has direction and layers; AI blobs feel random and lack a clear light source.",
+      "ai": {
+        "prompt": "an impressionist painting of a garden path, looks like a scan of a real artwork with visible paper texture and small imperfections",
+        "tool": "Gemini",
+        "tries": 3,
+        "wh": 1.8
+      },
+      "real": {
+        "search": "impressionist painting garden path",
+        "look": "a genuine, high-quality museum scan with soft, blended technique (this makes the pair hard)",
+        "sources": "The Met Open Access, Rijksmuseum, Art Institute of Chicago (CC0), Wikimedia Commons, Biodiversity Heritage Library (botanical)"
+      },
+      "files": {
+        "real": "images/pairs/26-real.webp",
+        "ai": "images/pairs/26-ai.webp"
+      }
+    },
+    {
+      "id": "27",
+      "subject": "a woodblock print of a wave and a boat",
+      "category": "art",
+      "difficulty": 2,
+      "tell": "Real woodblock lines are bold and flat; AI adds soft gradients and extra detail.",
+      "ai": {
+        "prompt": "a woodblock print of a wave and a boat, looks like a scan of a real artwork",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "woodblock print wave boat",
+        "look": "a genuine artwork scan from a museum collection",
+        "sources": "The Met Open Access, Rijksmuseum, Art Institute of Chicago (CC0), Wikimedia Commons, Biodiversity Heritage Library (botanical)"
+      },
+      "files": {
+        "real": "images/pairs/27-real.webp",
+        "ai": "images/pairs/27-ai.webp"
+      }
+    },
+    {
+      "id": "28",
+      "subject": "an oil still life with fruit and a jug",
+      "category": "art",
+      "difficulty": 3,
+      "tell": "The reflections on the jug and the shadows don't agree with each other.",
+      "ai": {
+        "prompt": "an oil still life with fruit and a jug, looks like a scan of a real artwork with visible paper texture and small imperfections",
+        "tool": "Gemini",
+        "tries": 3,
+        "wh": 1.8
+      },
+      "real": {
+        "search": "oil painting still life fruit jug",
+        "look": "a genuine, high-quality museum scan with soft, blended technique (this makes the pair hard)",
+        "sources": "The Met Open Access, Rijksmuseum, Art Institute of Chicago (CC0), Wikimedia Commons, Biodiversity Heritage Library (botanical)"
+      },
+      "files": {
+        "real": "images/pairs/28-real.webp",
+        "ai": "images/pairs/28-ai.webp"
+      }
+    },
+    {
+      "id": "29",
+      "subject": "a children's book illustration of a fox",
+      "category": "art",
+      "difficulty": 2,
+      "tell": "The anatomy is slightly odd and the style drifts from one part to another.",
+      "ai": {
+        "prompt": "a children's book illustration of a fox, looks like a scan of a real artwork",
+        "tool": "Gemini",
+        "tries": 2,
+        "wh": 1.2
+      },
+      "real": {
+        "search": "children's book illustration fox vintage",
+        "look": "a genuine artwork scan from a museum collection",
+        "sources": "The Met Open Access, Rijksmuseum, Art Institute of Chicago (CC0), Wikimedia Commons, Biodiversity Heritage Library (botanical)"
+      },
+      "files": {
+        "real": "images/pairs/29-real.webp",
+        "ai": "images/pairs/29-ai.webp"
+      }
+    },
+    {
+      "id": "30",
+      "subject": "a charcoal sketch of a mountain",
+      "category": "art",
+      "difficulty": 1,
+      "tell": "Too clean and polished compared with the smudges of real charcoal.",
+      "ai": {
+        "prompt": "a charcoal sketch of a mountain",
+        "tool": "Gemini",
+        "tries": 1,
+        "wh": 0.6
+      },
+      "real": {
+        "search": "charcoal drawing mountain",
+        "look": "a genuine drawing or sketch (a plain scan is fine)",
+        "sources": "The Met Open Access, Rijksmuseum, Art Institute of Chicago (CC0), Wikimedia Commons, Biodiversity Heritage Library (botanical)"
+      },
+      "files": {
+        "real": "images/pairs/30-real.webp",
+        "ai": "images/pairs/30-ai.webp"
+      }
+    }
+  ]
+}

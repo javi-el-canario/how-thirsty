@@ -1,0 +1,7 @@
+# local-only files
+tools/pictures-sources.log
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
+.claude/
